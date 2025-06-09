@@ -4,7 +4,6 @@ using System.Globalization;
 using UnityEngine;
 using UnityEditor.AssetImporters;
 using System.IO;
-using Pond;
 
 [ScriptedImporter(1, "tetra")]
 public class TetrahedralMeshImporter : ScriptedImporter
